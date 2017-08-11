@@ -1,0 +1,74 @@
+h1
+{
+    font-size:80px;
+    text-align:center;
+    margin:0px;
+}
+
+body
+{
+    font-size:22px;
+}
+
+dev
+{
+   margin-left:25px;
+}
+
+legend
+{
+    font-size:40px;
+    text-decoration:underline;
+    font-weight:bold;
+}
+
+.Personal-Q
+{
+    font-size:25px;
+    font-weight:bold;
+}
+
+.Personal-A-Name
+{
+    font-size:larger;
+    font-style:italic;
+    font-family:Monotype Corsiva;
+}
+
+.Personal-A
+{
+    font-size:larger;
+    font-style:italic;
+}
+
+.Education dev
+{
+    font-weight:bold;
+}
+
+.Experience thead
+{
+    text-align:center;
+    font-size:30px;
+    font-weight:bold;
+}
+
+.Experience-Cells td
+{
+    border-bottom:1px solid black;
+    text-align:center;
+    margin-right:2px;
+    padding-right:20px
+}
+
+.Trainings-W-C td
+{
+    margin-right:2px;
+    padding-right:100px
+}
+
+.Career-A td
+{
+    margin-right:2px;
+    padding-right:100px
+}
