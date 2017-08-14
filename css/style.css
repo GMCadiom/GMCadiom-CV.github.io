@@ -10,9 +10,10 @@ body
     font-size:20px;
 }
 
-dev
+p
 {
    margin-left:25px;
+   margin:0px;
 }
 
 legend
@@ -41,7 +42,7 @@ legend
     font-style:italic;
 }
 
-.Education dev
+.Education p
 {
     font-weight:bold;
 }
