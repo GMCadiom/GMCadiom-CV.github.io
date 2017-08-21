@@ -1,17 +1,26 @@
+                                    /*Start Global Styles*/
 *
 {
     color:#F9D4D4;
     text-align:center;
-    
+    padding:0px;
+    margin:0px;
 }
+                                    /*End Global Styles*/
 
+                                    /*Srart Body Styles*/
 body
 {
     background-position:center;
     background-repeat:repeat;
-    background-size:cover
+    background-size:cover;
+    font-family: 'Lato', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-decoration: none;
 }
+                                    /*End Body Styles*/
 
+                                    /*Start Main Menu Box Style*/
 .Welcome-Menu
 {
     font-size:20px;
@@ -23,7 +32,9 @@ body
     margin-top:-9em;
     margin-left:-15em;
 }
+                                    /*End Main Menu Box Style*/
 
+                                    /*Start Langs Buttons Styles*/
 .English, .Arabic
 {
     font-weight:bold;
@@ -36,3 +47,167 @@ body
     -webkit-appearance:button;
     text-decoration:none;
 }
+                                    /*End Langs Buttons Styles*/
+
+                                    /*Start Social Bar Style*/
+dev.Social-Bar
+{
+    background-color:#333333;
+    display:block;
+    font-weight: bold;
+    text-align: right;
+}
+                                    /*End Social Bar Style*/
+
+                                    /*Start Icons Style*/
+                                    /*Start Social Icons Style*/
+.Social-Icons, li, ul.Social-Icons
+{
+    display: inline;
+}
+                                    /*End Social Icons Style*/
+
+                                    /*Start FaceBook Style*/
+.fa-facebook
+{
+    padding:10px 14px;
+    height:20px;
+    width:20px;
+    background-color: #322f30;
+}
+.fa-facebook:hover
+{
+    background-color: #3d5b99;
+}
+                                    /*End FaceBook Style*/
+
+                                    /*Start Twitter Style*/
+.fa-twitter
+{
+    padding:10px 14px;
+    height:20px;
+    width:20px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+
+.fa-twitter:hover {
+    background-color: #00aced;
+}
+                                    /*End Twitter Style*/
+
+                                    /*Start GitHub Style*/
+.fa-github
+{
+    padding:10px 14px;
+    height:20px;
+    width:20px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+
+.fa-github:hover {
+    background-color: #000;
+}
+                                    /*End GitHub Style*/
+
+                                    /*Start AFH Style*/
+.fa-android
+{
+    padding:10px 14px;
+    height:20px;
+    width:20px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+
+.fa-android:hover {
+    background-color: #7CB342;
+}
+                                    /*End AFH Style*/
+
+                                    /*Start Ask.fm Style*/
+.fa-question
+{
+    padding:10px 14px;
+    height:20px;
+    width:20px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+
+.fa-question:hover {
+    background-color: #D21112;
+}
+                                    /*End Ask.fm Style*/
+
+                                    /*Start RSS Style*/
+.fa-rss {
+    padding:10px 14px;
+    height:20px;
+    width:20px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+
+.fa-rss:hover {
+    background-color: #eb8231;
+}
+                                    /*End RSS Style*/
+
+                                    /*Start YouTube Style*/
+.fa-youtube {
+    padding:10px 14px;
+    height:20px;
+    width:20px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+
+.fa-youtube:hover {
+    background-color: #e64a41;
+}
+                                    /*End YouTube Style*/
+
+                                    /*Start Google+ Style*/
+.fa-google-plus {
+    padding:10px 14px;
+    height:20px;
+    width:20px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+
+.fa-google-plus:hover {
+    background-color: #e25714;
+}
+                                    /*End Google+ Style*/
+                                    /*End Icons Style*/
