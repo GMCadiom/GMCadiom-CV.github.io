@@ -3,7 +3,7 @@
 {
     color:#F9D4D4;
 	font-size:20px;
-    font-family:"Tahoma"
+    font-family:"Tahoma";
 }
                                     /*End Global Styles*/
 
@@ -21,7 +21,7 @@ body
 .Welcome-Menu
 {
     text-align:center;
-    font-size:25px;
+    font-size:20px;
     position:fixed;
     top:60%;
     left:50%;
@@ -64,7 +64,7 @@ h2.Line-2
 {
     display:block;
     font-weight:bold;
-    text-align:right;
+    text-align:left;
     height:80px;
 }
                                     /*End Social Bar Style*/
@@ -73,7 +73,7 @@ h2.Line-2
 .Social-Icons
 {
 	display:inline;
-    text-align:right;
+    text-align:left;
     text-align:-webkit-match-parent;
 }
                                     /*End li Style*/
@@ -85,7 +85,7 @@ h2.Line-2
 	width:60px;
 	height:60px;
 	margin:20px;
-	float:right;
+	float:left;
 	overflow:hidden;
 	line-height:65px;
 	text-align:center;
@@ -286,7 +286,7 @@ td, li
     font-size:larger;
     font-style:italic;
     font-family:Monotype Corsiva;
-    padding-left:40px;
+    padding-right: 40px;
 }
 									/*End Personal-A-Name Style*/
 
@@ -295,7 +295,7 @@ td, li
 {
     font-size:larger;
     font-style:italic;
-    padding-left:40px;
+    padding-right: 40px;
 }
 									/*End Personal-A Style*/
 
@@ -320,24 +320,24 @@ td, li
 {
     border-bottom:1px solid #FFF;
     text-align:center;
-    margin-right:2px;
-    padding-right:20px
+    margin-left:2px;
+    padding-left:20px
 }
 									/*End Experience-Cells & td Style*/
 
 									/*Start Trainings-W-C & td Style*/
 .Trainings-W-C td
 {
-    margin-right:2px;
-    padding-right:100px
+    margin-left:2px;
+    padding-left:100px
 }
 									/*End Trainings-W-C & td Style*/
 
 									/*Start Career-A & td Style*/
 .Career-A td
 {
-    margin-right:2px;
-    padding-right:100px;
+    margin-left:2px;
+    padding-left:100px;
 }
 									/*End Career-A & td Style*/
 
